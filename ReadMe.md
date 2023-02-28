@@ -1,5 +1,6 @@
-# 💫 About Me:
- I am currently working in every field, trying to improve myself<br>🌱 I’m currently learning deep learning, data mining, data science, AWS<br>💬 Ask me about spatial data analysis, GIS, data science tools<br>📫 How to reach me: https://www.linkedin.com/in/mervegamzecinar/ -->
+                                 # 💫 About Me:
+                                 I am currently working in every field, trying to improve myself<br>
+                                 🌱 I’m currently learning deep learning, data mining, data science, AWS<br>💬 Ask me about spatial data analysis, GIS, data science                                  tools<br>📫 How to reach me: https://www.linkedin.com/in/mervegamzecinar/ -->
 
 
 ## 🌐 Socials:
