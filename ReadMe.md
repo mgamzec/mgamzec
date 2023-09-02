@@ -1,5 +1,5 @@
 # Hi it's me Gamze!
-💫I'm currently working ML, Data Science in field Remote Sensing and Urban Planning, deep learning <br>🌱 I’m currently learning AWS, image processing <br>💬 Ask me about spatial data analysis, GIS, data science tools<br>📫 Reach me: https://www.linkedin.com/in/mervegamzecinar/ -->
+💫I'm currently working ML, Data Science in field Remote Sensing and Urban Analytics, deep learning <br>🌱 I’m currently learning AWS, image processing <br>💬 Ask me about spatial data analysis, GIS, data science tools<br>📫 Reach me: https://www.linkedin.com/in/mervegamzecinar/ -->
 
 
 ## 🌐 Socials:
