@@ -1,6 +1,10 @@
 # Hi it's me Gamze!
 💫I'm currently working ML, Data Science in field Remote Sensing and Urban Analytics, deep learning <br>🌱 I’m currently learning AWS, image processing <br>💬 Ask me about spatial data analysis, GIS, data science tools<br>📫 Reach me: https://www.linkedin.com/in/mervegamzecinar/ -->
 
+I like using data to solve problems and understand phenomenon, especially those related to environmental issues 🌍.
+
+I am deeply convinced of the importance of opening knowledge, data and codes ⚡.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#6303) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mervegamzecinar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mervegamzenar) 
