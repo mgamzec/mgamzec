@@ -5,6 +5,9 @@
 
 ⚡ I am deeply convinced of the importance of opening knowledge, data and codes 
 
+![image](https://github.com/mgamzec/mgamzec/assets/62151645/b9bf5bbb-922c-4b38-8cd8-da072999730d)
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#6303) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mervegamzecinar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mervegamzenar) 
