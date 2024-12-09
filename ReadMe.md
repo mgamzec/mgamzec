@@ -1,5 +1,7 @@
 # Hi it's me Gamze!
-💫I'm currently working ML, Data Science in field Remote Sensing and Urban Analytics, deep learning <br>🌱 I’m currently learning AWS, image processing <br>💬 Ask me about spatial data analysis, GIS, data science tools<br>📫 Reach me: https://www.linkedin.com/in/mervegamzecinar/ -->
+💫Currently working on data analytics with SQL, Python, Tableau, and Power BI
+💫Experience working with machine learning and neural network applications in data science
+💫Strengths in Python and R programming, and SQL using Postgres and SQL Server for data analytics and visualization <br> <br>💬 Ask me about spatial data analysis, GIS, data science tools<br>📫 Reach me: https://www.linkedin.com/in/mervegamzecinar/ -->
 
 🌍 I like using data to solve problems and understand phenomenon, especially those related to environmental issues
 
