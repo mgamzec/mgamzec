@@ -1,6 +1,7 @@
 # Hi it's me Gamze!
 
 💫Data Engineering
+
    Processing: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, Trino
    Databases: PostgreSQL, MySQL, MongoDB, Redshift, DynamoDB, Oracle
    Cloud Platforms: AWS, GCP, Azure
