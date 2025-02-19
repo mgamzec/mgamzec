@@ -1,13 +1,12 @@
 # Hi it's me Gamze!
 
-💫Data Engineering 
+💫Data Analytics
    
-📫 Processing: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, Trino
+📫 Processing: Apache Spark, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, dbt
 
-🌍 Databases: PostgreSQL, MySQL, MongoDB, Redshift, DynamoDB, Oracle
+🌍 Databases: PostgreSQL, MySQL, MongoDB, Redshift, BigQuery
 
-⚡ Cloud Platforms: AWS, GCP, Azure
-   Data Visualization & Analytics: Tableau, Power BI, Amazon QuickSight
+⚡ Data Visualization & Analytics: Tableau, Power BI
 
 ![image](https://github.com/mgamzec/mgamzec/assets/62151645/b9bf5bbb-922c-4b38-8cd8-da072999730d)
 
