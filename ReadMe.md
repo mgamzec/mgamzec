@@ -2,9 +2,9 @@
 
 💫Data Analytics
    
-📫 Processing: Apache Spark, ETL/ELT Processes, AWS Glue, Apache Airflow , Iceberg, Snowflake, dbt
+📫 Processing: ETL/ELT Processes, Apache Airflow , Snowflake, dbt
 
-🌍 Databases: PostgreSQL, MySQL, MongoDB, Redshift, BigQuery
+🌍 Databases: PostgreSQL, MS SQL, Redshift, BigQuery
 
 ⚡ Data Visualization & Analytics: Tableau, Power BI
 
